@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+## 🌐 About Me:
 I am a Software Engineer specializing in frontend development with 4 years of professional experience. I focus on building dynamic, high-performance web applications using React.js, Next.js, and TypeScript. I am passionate about creating responsive interfaces, writing clean, maintainable code, and delivering seamless user experiences.
 
 # 💻 Tech Stack:
