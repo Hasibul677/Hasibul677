@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/m.me/hhasibul2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-hasibul-hasan63) 
+I am a Software Engineer specializing in frontend development with 4 years of professional experience. I focus on building dynamic, high-performance web applications using React.js, Next.js, and TypeScript. I am passionate about creating responsive interfaces, writing clean, maintainable code, and delivering seamless user experiences.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
