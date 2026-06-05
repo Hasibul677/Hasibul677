@@ -11,6 +11,62 @@ I am passionate about:
 
 ---
 
+## 💼 Professional Experience
+
+### 🏢 Software Engineer (L1) — Akij iBOS  
+**Feb 2026 – Present | Dhaka, Bangladesh**
+
+- Developing and maintaining scalable frontend applications  
+- Building UI using React.js, Next.js, TypeScript  
+- Collaborating with backend, design, and product teams  
+- Improving performance, usability, and code quality  
+- Supporting production deployment and issue fixing  
+
+---
+
+### 🏢 Software Engineer — Business Accelerate BD Ltd.  
+**Feb 2023 – Jan 2026 | Dhaka, Bangladesh**
+
+- Developed and maintained multiple frontend web applications  
+- Built dynamic UIs using React.js and modern JavaScript  
+- Implemented reusable components and clean architecture  
+- Handled state management and performance optimization  
+- Debugged production issues and enhanced existing features  
+- Contributed to system design and UI improvements  
+
+---
+
+### 🏢 Software Engineer — NAJJ Technologies Ltd.  
+**Nov 2021 – Jan 2023**
+
+- Worked as Full Stack Engineer (Frontend + Backend)  
+- Developed REST APIs and integrated frontend systems  
+- Managed deployment, servers, and database operations  
+- Collaborated with cross-functional teams for delivery  
+- Built end-to-end scalable web solutions  
+
+---
+
+### 🎓 Programming Hero — Web Development Training  
+**Apr 2021 – Nov 2021**
+
+- Learned HTML, CSS, JavaScript, React basics  
+- Built multiple hands-on practice projects  
+- Strengthened problem-solving and frontend fundamentals  
+- Gained real-world development workflow experience  
+
+---
+
+### 🎓 Web Developer Intern — Halcyon Digital  
+**Oct 2020 – Jan 2021**
+
+- Assisted in frontend development tasks  
+- Implemented UI components and fixed bugs  
+- Worked on real client-based projects  
+- Learned professional development workflow  
+
+---
+
 # 💻 Tech Stack
 
 ## Core
@@ -48,7 +104,7 @@ I am passionate about:
 - Build scalable frontend applications  
 - Develop SaaS & dashboard systems  
 - Create reusable UI component systems  
-- Work on performance optimization  
+- Focus on performance optimization  
 - Explore AI-powered developer tools  
 
 ---
