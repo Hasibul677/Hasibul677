@@ -95,9 +95,6 @@ I am passionate about:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasibul677&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasibul677&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
 # 🚀 What I Do
 
